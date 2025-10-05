@@ -1,0 +1,2 @@
+#define SSID "ssidnamegoeshere" // SSID Name
+#define PASSWORD "wifipasswordgoeshere" // SSID Password

@@ -1,0 +1,6 @@
+BlueKnob-ESP32/build/
+BlueKnob-ESP32/.vscode/
+
+BlueKnob-ESP32S3/build/
+BlueKnob-ESP32S3/.vscode/
+BlueKnob-ESP32S3/main/auth.h
