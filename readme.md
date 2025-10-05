@@ -1,4 +1,6 @@
-### This project runs on the Waveshare ESP32-S3-Knob-Touch-LCD-1.8[1] 
+<img src="extras/mediacontrols.jpg" height="240px">  <img src="extras/settings.jpg" height="240px">
+
+### This project is for the Waveshare ESP32-S3-Knob-Touch-LCD-1.8[1] 
 
 # 3 components
 * `BlueKnob-ESP32` - This runs on the ESP32 chip. It puts the processor into a permanent deep sleep at boot. This is to maximize battery life, as it is not used.
