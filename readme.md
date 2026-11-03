@@ -13,6 +13,7 @@
 
 # Install
 * Build and flash both ESP projects. Instructions for configuring the ESP-IDF build environment and flashing both chips (by reversing the USB C connector) are available at the Waveshare wiki article[3] for the knob.
+* Note: Only esp-idf version 5.5.1 has been tested as working. After trying one of the 6.x builds, I ran into several errors and decided to go back rather than fix them. If you fix them, please open a PR!
 * Squareline Studio unfortunately stores paths in a non-relative format so you will need to set the "Project Export Root" and "UI Files Export Path" manually. Root should be set to `.../BlueKnob-ESP32S3/main` and UI Files to `.../BlueKnob-ESP32S3/main/ui`
 
 # Usage
